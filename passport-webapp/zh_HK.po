@@ -1,0 +1,594 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-04 14:42-0700\n"
+"PO-Revision-Date: 2016-11-16 14:10-0500\n"
+"Last-Translator: Krystal Tse <krystalt@indeed.com>\n"
+"Language-Team: Chinese (Hong Kong) <http://example.com/weblate/projects/indeed/passport-webapp-po/zh_HK/>\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 1.8\n"
+
+# * Status: human_api_translated
+#. Error when somebody already registered this account
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Account already exists"
+msgstr "帳戶已存在"
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 1)
+#: web/static/app/js/components/Facebook.js:1
+msgid "All job search information is kept private."
+msgstr "所有工作搜尋資訊均保密處理。"
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "By creating an account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "建立帳戶即表示，您同意 Indeed 的<a {0}>服務條款</a>、<a {2}>Cookie 政策</a>和<a {1}>私隱政策</a>。"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "By modifying your account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "修改您的帳戶即表示，您同意 Indeed 的<a {0}>服務條款</a>，<a {2}>Cookie 政策</a>以及<a {1}>私隱政策</a>。"
+
+# * Status: human_api_translated
+#. disclaimer on the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "By providing your phone number you are consenting to receive messages from Indeed.com via text messages. Message and data rates may apply."
+msgstr "提供您的電話號碼，即代表您同意透過短訊接收 Indeed.com 的訊息。可能收取短訊及資料傳輸費用。"
+
+#: web/WEB-INF/themes/drawsignup/global_nav.jsp:1
+#: web/WEB-INF/themes/default/global_nav.jsp:1
+#, java-format
+msgctxt "common-strings"
+msgid "By using Indeed, you agree to our new <a {0}>Terms</a>."
+msgstr "使用Indeed即表示，您同意我們的新<a {0}>條款</a>。"
+
+# * Status: human_api_translated
+#. Alert text for new term of service
+#: web/static/app/js/components/LegalNotice.js:1
+msgid "By using Indeed, you agree to our new [Terms|{0}]."
+msgstr "使用Indeed即表示，您同意我們的新[條款|{0}]。"
+
+# * Status: human_api_translated
+#. message when the call has been canceld
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "Call canceled"
+msgstr "通話取消"
+
+# * Status: human_api_translated
+#. text on the button that makes the phone call
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Call me again"
+msgstr "再次撥號"
+
+# * Status: human_api_translated
+#. prompt users to make a phone call
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Call me now"
+msgstr "撥號給我"
+
+# * Status: human_api_translated
+#. text to tell users the number is being called. The parameter is the phone number
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Calling {0}"
+msgstr "正在致電{0}"
+
+# * Status: human_api_translated
+#. Cancel login
+#. label on the cancel button
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Cancel"
+msgstr "取消"
+
+# * Status: human_api_translated
+#. Prompt users to change the country
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+msgid "Change country"
+msgstr "變更國家"
+
+# * Status: human_api_translated
+#. Prompt users to confirm the country code
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+msgid "Confirm"
+msgstr "確認"
+
+# * Status: human_api_translated
+#. Text shown to a user after a successful facebook login just before we reload the page.
+#: web/static/app/js/components/Facebook.js:1
+msgid "Connected. Please wait..."
+msgstr "已連接。 請稍後..."
+
+# * Status: human_api_translated
+#. text on the continue button
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "Continue"
+msgstr "繼續"
+
+# * Status: human_api_translated
+#. Login Button Text
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "button"
+msgid "Create Account"
+msgstr "建立帳戶"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "header"
+msgid "Create an Account (it's free)"
+msgstr "免費建立帳戶"
+
+# * Status: human_api_translated
+#. text to tell users a confirmation email has been sent
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Do you prefer to verify your account by email? Click on the link in the email we just sent you!"
+msgstr "想透過電郵驗證帳戶？請在剛發送給您的電郵內點擊驗證連結！"
+
+#. Label above email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email Address"
+msgstr "電郵地址"
+
+# * Status: human_api_translated
+#. Prompt text of user's email address */ }
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy
+msgid "Email address: [{0}|{1}]"
+msgstr "電郵地址：[{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error when email & confirm email addresses do not match
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Email addresses don't match"
+msgstr "電郵地址不匹配"
+
+# * Status: human_api_translated
+#. Error message when the given phone number is invalid
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "Enter a valid phone number without a phone extension, such as your cell phone number."
+msgstr "請輸入一個沒有電話分機的有效電話號碼，如您的手提電話號碼。"
+
+# * Status: human_api_translated
+#. Prompt for user to enter email address
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter the email associated with your Indeed account and we'll send you instructions to reset your password."
+msgstr "請輸入建立 Indeed 帳戶時使用的電郵地址，我們將把重設密碼指引發送給您。"
+
+# * Status: human_api_translated
+#. label to prompt users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Enter this verification code on your phone:"
+msgstr "在您的電話輸入此驗證碼："
+
+# * Status: human_api_translated
+#. Placeholder text for email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter your email"
+msgstr "輸入您的電郵地址"
+
+#: src/java/com/indeed/passport/webapp/controllers/FacebookLoginController.java:1
+msgid "Facebook login failed"
+msgstr "Facebook登入失敗"
+
+# * Status: human_api_translated
+#. Navigation link from login page to forgot your password page
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Forgot Your Password?"
+msgstr "忘記密碼？"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Have an account?  Sign in"
+msgstr "已有 Indeed 帳戶？登入"
+
+# * Status: human_api_translated
+#. Navigation link from login page to help center
+#. Navigation link from forgot password page to help center
+#. Navigation link from login page to help center
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Help Center"
+msgstr "尋求幫助"
+
+# * Status: human_api_translated
+#. Prompt for email sent success. {0} is recipient's email address.*/ }
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "If you have an Indeed account, you'll receive instructions for resetting your password at [{0}|{1}]"
+msgstr "如果您已有 Indeed 帳戶，您會在 [{0}|{1}] 收到重設密碼的說明。"
+
+# * Status: human_api_translated
+#. Error text when you enter an incorrect password or email address
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Incorrect password or email address"
+msgstr "密碼或電郵地址不正確"
+
+# * Status: human_api_translated
+#. Error when somebody attempts to register an account with an invalid email address
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Invalid email address"
+msgstr "電郵地址無效"
+
+#. Label for "remember me on this computer" checkbox
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Keep me signed-in on this computer."
+msgstr "在這部電腦上記住我的登入資料"
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy
+msgid "New password ({0} character minimum)"
+msgstr "新密碼（至少{0}個字符）"
+
+# * Status: human_api_translated
+#. text on the button directing users to the next page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Next"
+msgstr "下一步"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Not a member? Create an account free"
+msgstr "免費建立帳戶，同全球用戶一齊搵工！"
+
+#. Label above password field
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Password"
+msgstr "密碼"
+
+# * Status: human_api_translated
+#. Error text when password is too short
+#. Error message when password is less than {0} characters long
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "Password must be at least {0} characters long"
+msgstr "密碼長度至少為{0}個字符"
+
+# * Status: human_api_translated
+#. Error text when passwords do not match
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Passwords do not match"
+msgstr "密碼不相符"
+
+#. label text asking users to enter the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Phone number"
+msgstr "電話號碼"
+
+# * Status: human_api_translated
+#. Error message when password is empty.  {0} is minimum characters required.
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please enter a password at least {0} characters long"
+msgstr "請輸入長度至少為{0}個字符的密碼"
+
+# * Status: human_api_translated
+#. Error text when user enter an incorrect email address
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Please enter a valid email address"
+msgstr "請輸入有效的電郵地址"
+
+# * Status: human_api_translated
+#. Error text for user not entering an email address
+#. Error when somebody forgets to input their email address while registering
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please enter your email address"
+msgstr "請輸入您的電郵地址"
+
+# * Status: human_api_translated
+#. Message shown when there is a page-level validation error
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please fix any errors on the page"
+msgstr "請更正頁面上的錯誤"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 请重新输入您的电子邮件地址
+# project id: 4403953
+#. Error when somebody does not retype their password
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please re-type your email address"
+msgstr "請再次輸入您的電郵地址"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 请选择一个联系方式。
+# project id: 4403962
+#. error message to ask users to select a contact method
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Please select a contact method."
+msgstr "請選擇聯絡方式。"
+
+# * Status: human_api_translated
+#. label above the contact selection box
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Preferred contact method"
+msgstr "偏好的連絡方式"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 重新写邮件
+# project id: 4403977
+#. Label above email address field
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Re-type Email"
+msgstr "再次輸入電郵地址"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 重新输入密码
+# project id: 4403986
+#. Label above confirm password field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Re-type password"
+msgstr "再次輸入密碼"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Password"
+msgstr "重設密碼"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 重置你的密码
+# project id: 4404003
+#. Login page header
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Your Password"
+msgstr "重設密碼"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 重置你的密码
+# project id: 4404010
+#. Login page header
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "header"
+msgid "Reset Your Password"
+msgstr "重設密碼"
+
+# * Status: human_api_translated
+#. label to prompt users to send SMS
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Send a text message (SMS)"
+msgstr "發送短訊（SMS）"
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Send email again"
+msgstr ""
+
+#. Navigation link from forgot password page to sign in
+#. Login Button Text
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "button or link to sign in"
+msgid "Sign In"
+msgstr "登入"
+
+#. Login page header
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "header"
+msgid "Sign In"
+msgstr "登入您的帳戶"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 签到
+# project id: 4404026
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, fuzzy
+msgid "Sign in"
+msgstr "签到"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Sign in to view and edit your Indeed Resume, or apply to jobs easily with it."
+msgstr "登入帳戶，就能查看、編輯、及使用您的Indeed履歷輕鬆應徵職位。"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 通过Facebook登录
+# project id: 4404043
+#. Text for "Log in with Facebook" button
+#: web/static/app/js/components/Facebook.js:1
+msgid "Sign in with Facebook"
+msgstr "通過 Facebook 登入"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 提交
+# project id: 4404051
+#. label on the submit button
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, fuzzy
+msgid "Submit"
+msgstr "提交"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 提交
+# project id: 4404058
+#. Forgot Password Button Text
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgctxt "button"
+msgid "Submit"
+msgstr "提交"
+
+# * Status: human_api_translated
+#. text to notify the user the number has been verified
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "Thanks, your phone number is verified."
+msgstr "謝謝，您的電話號碼已完成驗證。"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 验证码不匹配
+# project id: 4404065
+#. Error message when the confirmation code is wrong
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "The confirmation code does not match"
+msgstr "驗證碼不匹配"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 重设密码的链接已过期。
+# project id: 4404075
+#. Error text when the link is expired
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is expired."
+msgstr "重設密碼連結已過期。"
+
+# * Status: human_api_translated
+#. Error text when the link is invalid
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is invalid."
+msgstr "重設密碼連結無效。"
+
+# * Status: human_api_translated
+#. Text to notify users an error happened and try again
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "There was an error verifying your phone, please try again."
+msgstr "驗證您的電話時發生錯誤，請再試一次。"
+
+# * Status: human_api_translated
+#. text to tell users why we need to verify the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "To provide the best experience for job seekers and employers, we need to verify that the phone number associated with your account belongs to you. The verification process is automated and takes less than a minute."
+msgstr "為提供求職者及僱主最佳招聘體驗，我們需要確認此電話號碼確實是您本人所有。此程序為自動驗證，所需時間不到一分鐘。"
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Using a non-company email may delay account verification. We encourage the use of a company email to make your jobs go live faster."
+msgstr ""
+
+# * Status: human_api_translated
+#. label text asking users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, fuzzy
+msgid "Verification code"
+msgstr "驗證碼"
+
+# * Status: human_api_translated
+#. text to tell users the code has been sent. The parameter is the phone number.
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Verification code sent to {0}. Enter the code you received below."
+msgstr "驗證碼已發送到{0}。請在下面輸入您收到的驗證碼。"
+
+# * Status: human_api_translated
+#. header of the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Verify your phone number"
+msgstr "驗證您的電話號碼"
+
+# * Status: human_api_translated
+#. text to tell job seeker a confirmation email has been sent to them. {0} is the stake of the email address.
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "We also just sent a confirmation email to {0}. Click on the confirmation link in the email to verify your email address so that employers can reach you via email."
+msgstr "我們剛把確認電郵發至{0}。請點擊電郵內的連結驗證您的電郵地址，讓僱主日後能透過電郵與您聯絡。"
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 2)
+#: web/static/app/js/components/Facebook.js:1
+msgid "We won't post anything without your permission."
+msgstr "未經您的許可，我們不會洩露任何資訊。"
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your account has been temporarily locked because of security concerns. To unlock this account, you must reset your password. We have emailed you instructions for resetting your password at {0}"
+msgstr ""
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Your email is associated with an existing account."
+msgstr "您的電郵與另一個帳戶關聯。"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 您的密码已重置。
+# project id: 4404114
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Your password has been reset."
+msgstr "成功重設密碼。"
+
+# DO NOT DELETE OR MODIFY COMMENTS BELOW
+# * Status: google_translated
+# google_translation: 您的密码已重置。 [登录| {0}]
+# project id: 4404123
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Your password has been reset. [Sign In|{0}]"
+msgstr "成功重設密碼。 [登入|{0}]"
+
+#. Error text when password is too common
+#. Error when password is in the 10k most commonly used passwords
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Your password is too simple. Make it more secure by using capitalization, numbers and special characters, or by making it longer."
+msgstr "您設定的密碼過於簡單。為保障您的帳戶安全，請使用大寫、數字或特別字符，或設定更長的密碼。"
+
+#. divider between sign in and facebook sign in
+#: web/static/app/js/components/Facebook.js:1
+msgctxt "separates different sign in methods"
+msgid "or"
+msgstr "或者"
+
+#. Error text when you failed to pass recaptcha
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "reCAPTCHA validation unsuccessful. Please try again."
+msgstr "reCAPTCHA驗證不成功。請再試一次。"
+
+# * Status: human_api_translated
+#. Error message when the phone number has been used. {0} is the parameter of phone number.
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "{0} is associated with another account. Please enter a different number where you can be reached directly."
+msgstr "{0} 與另一個帳戶關聯。請輸入一個不同的電話號碼，讓我們直接聯絡您。"
+
+#~ msgid "Incorrect login or password"
+#~ msgstr "用戶名或密碼錯誤"
+
+#~ msgid "Sign In"
+#~ msgstr "登入"
+
+#~ msgctxt "button"
+#~ msgid "Sign In"
+#~ msgstr "登入"

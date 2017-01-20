@@ -1,0 +1,472 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-08 18:28-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. Error when somebody already registered this account
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Account already exists"
+msgstr "Ă'ċċōūṅṫ āƚṙēāđẏ ēẋīṡṫṡ"
+
+#. Legal disclaimer for facebook login button (line 1)
+#: web/static/app/js/components/Facebook.js:1
+msgid "All job search information is kept private."
+msgstr "Ă'ƚƚ ɉōƃ ṡēāṙċħ īṅḟōṙṁāṫīōṅ īṡ ҟēṗṫ ṗṙīṽāṫē."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "By creating an account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "Ɓ''ẏ ċṙēāṫīṅḡ āṅ āċċōūṅṫ, ẏōū āḡṙēē ṫō Īṅđēēđ'ṡ <a {0}>Ťēṙṁṡ ōḟ Šēṙṽīċē</a> āṅđ ċōṅṡēṅṫ ṫō ōūṙ <a {2}>Ƈōōҟīē Ṕōƚīċẏ</a> āṅđ <a {1}>Ṕṙīṽāċẏ Ṕōƚīċẏ</a>."
+
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, python-brace-format
+msgid "By modifying your account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "Ɓ''ẏ ṁōđīḟẏīṅḡ ẏōūṙ āċċōūṅṫ, ẏōū āḡṙēē ṫō Īṅđēēđ'ṡ <a {0}>Ťēṙṁṡ ōḟ Šēṙṽīċē</a> āṅđ ċōṅṡēṅṫ ṫō ōūṙ <a {2}>Ƈōōҟīē Ṕōƚīċẏ</a> āṅđ <a {1}>Ṕṙīṽāċẏ Ṕōƚīċẏ</a>."
+
+#. disclaimer on the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "By providing your phone number you are consenting to receive messages from Indeed.com via text messages. Message and data rates may apply."
+msgstr "Ɓ'ẏ ṗṙōṽīđīṅḡ ẏōūṙ ṗħōṅē ṅūṁƃēṙ ẏōū āṙē ċōṅṡēṅṫīṅḡ ṫō ṙēċēīṽē ṁēṡṡāḡēṡ ḟṙōṁ Īṅđēēđ.ċōṁ ṽīā ṫēẋṫ ṁēṡṡāḡēṡ. Ḿēṡṡāḡē āṅđ đāṫā ṙāṫēṡ ṁāẏ āṗṗƚẏ."
+
+#: web/WEB-INF/themes/drawsignup/global_nav.jsp:1
+#: web/WEB-INF/themes/default/global_nav.jsp:1
+#, java-format
+msgctxt "common-strings"
+msgid "By using Indeed, you agree to our new <a {0}>Terms</a>."
+msgstr "Ɓ''ẏ ūṡīṅḡ Īṅđēēđ, ẏōū āḡṙēē ṫō ōūṙ ṅēẇ <a {0}>Ťēṙṁṡ</a>."
+
+#. Alert text for new term of service
+#: web/static/app/js/components/LegalNotice.js:1
+#, python-brace-format
+msgid "By using Indeed, you agree to our new [Terms|{0}]."
+msgstr "Ɓ''ẏ ūṡīṅḡ Īṅđēēđ, ẏōū āḡṙēē ṫō ōūṙ ṅēẇ [Ťēṙṁṡ|{0}]."
+
+#. message when the call has been canceld
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "Call canceled"
+msgstr "Ƈ'āƚƚ ċāṅċēƚēđ"
+
+#. text on the button that makes the phone call
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Call me again"
+msgstr "Ƈ'āƚƚ ṁē āḡāīṅ"
+
+#. prompt users to make a phone call
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Call me now"
+msgstr "Ƈ'āƚƚ ṁē ṅōẇ"
+
+#. text to tell users the number is being called. The parameter is the phone number
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, python-brace-format
+msgid "Calling {0}"
+msgstr "Ƈ''āƚƚīṅḡ {0}"
+
+#. Cancel login
+#. label on the cancel button
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Cancel"
+msgstr "Ƈ'āṅċēƚ"
+
+#. Prompt users to change the country
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+msgid "Change country"
+msgstr "Ƈ'ħāṅḡē ċōūṅṫṙẏ"
+
+#. Prompt users to confirm the country code
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+msgid "Confirm"
+msgstr "Ƈ'ōṅḟīṙṁ"
+
+#. Text shown to a user after a successful facebook login just before we reload the page.
+#: web/static/app/js/components/Facebook.js:1
+msgid "Connected. Please wait..."
+msgstr "Ƈ'ōṅṅēċṫēđ. Ṕƚēāṡē ẇāīṫ..."
+
+#. text on the continue button
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "Continue"
+msgstr "Ƈ'ōṅṫīṅūē"
+
+#. Login Button Text
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "button"
+msgid "Create Account"
+msgstr "Ƈ'ṙēāṫē Ăċċōūṅṫ"
+
+#. Login page header
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "header"
+msgid "Create an Account (it's free)"
+msgstr "Ƈ'ṙēāṫē āṅ Ăċċōūṅṫ (īṫ'ṡ ḟṙēē)"
+
+#. text to tell users a confirmation email has been sent
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Do you prefer to verify your account by email? Click on the link in the email we just sent you!"
+msgstr "Ɗ'ō ẏōū ṗṙēḟēṙ ṫō ṽēṙīḟẏ ẏōūṙ āċċōūṅṫ ƃẏ ēṁāīƚ? Ƈƚīċҟ ōṅ ṫħē ƚīṅҟ īṅ ṫħē ēṁāīƚ ẇē ɉūṡṫ ṡēṅṫ ẏōū!"
+
+#. Label above email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email Address"
+msgstr "Ĕ'ṁāīƚ Ăđđṙēṡṡ"
+
+#. Prompt text of user's email address */ }
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "Email address: [{0}|{1}]"
+msgstr "Ĕ''ṁāīƚ āđđṙēṡṡ: [{0}|{1}]"
+
+#. Error when email & confirm email addresses do not match
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email addresses don't match"
+msgstr "Ĕ'ṁāīƚ āđđṙēṡṡēṡ đōṅ'ṫ ṁāṫċħ"
+
+#. Error message when the given phone number is invalid
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "Enter a valid phone number without a phone extension, such as your cell phone number."
+msgstr "Ĕ'ṅṫēṙ ā ṽāƚīđ ṗħōṅē ṅūṁƃēṙ ẇīṫħōūṫ ā ṗħōṅē ēẋṫēṅṡīōṅ, ṡūċħ āṡ ẏōūṙ ċēƚƚ ṗħōṅē ṅūṁƃēṙ."
+
+#. Prompt for user to enter email address
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter the email associated with your Indeed account and we'll send you instructions to reset your password."
+msgstr "Ĕ'ṅṫēṙ ṫħē ēṁāīƚ āṡṡōċīāṫēđ ẇīṫħ ẏōūṙ Īṅđēēđ āċċōūṅṫ āṅđ ẇē'ƚƚ ṡēṅđ ẏōū īṅṡṫṙūċṫīōṅṡ ṫō ṙēṡēṫ ẏōūṙ ṗāṡṡẇōṙđ."
+
+#. label to prompt users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Enter this verification code on your phone:"
+msgstr "Ĕ'ṅṫēṙ ṫħīṡ ṽēṙīḟīċāṫīōṅ ċōđē ōṅ ẏōūṙ ṗħōṅē:"
+
+#. Placeholder text for email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter your email"
+msgstr "Ĕ'ṅṫēṙ ẏōūṙ ēṁāīƚ"
+
+#: src/java/com/indeed/passport/webapp/controllers/FacebookLoginController.java:1
+msgid "Facebook login failed"
+msgstr "Ƒ'āċēƃōōҟ ƚōḡīṅ ḟāīƚēđ"
+
+#. Navigation link from login page to forgot your password page
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Forgot Your Password?"
+msgstr "Ƒ'ōṙḡōṫ Ŷōūṙ Ṕāṡṡẇōṙđ?"
+
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Have an account?  Sign in"
+msgstr "Ĥ'āṽē āṅ āċċōūṅṫ?  Šīḡṅ īṅ"
+
+#. Navigation link from login page to help center
+#. Navigation link from forgot password page to help center
+#. Navigation link from login page to help center
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Help Center"
+msgstr "Ĥ'ēƚṗ Ƈēṅṫēṙ"
+
+#. Prompt for email sent success. {0} is recipient's email address.*/ }
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, python-brace-format
+msgid "If you have an Indeed account, you'll receive instructions for resetting your password at [{0}|{1}]"
+msgstr "Ī''ḟ ẏōū ħāṽē āṅ Īṅđēēđ āċċōūṅṫ, ẏōū'ƚƚ ṙēċēīṽē īṅṡṫṙūċṫīōṅṡ ḟōṙ ṙēṡēṫṫīṅḡ ẏōūṙ ṗāṡṡẇōṙđ āṫ [{0}|{1}]"
+
+#. Error text when you enter an incorrect password or email address
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Incorrect password or email address"
+msgstr "Ī'ṅċōṙṙēċṫ ṗāṡṡẇōṙđ ōṙ ēṁāīƚ āđđṙēṡṡ"
+
+#. Error when somebody attempts to register an account with an invalid email address
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Invalid email address"
+msgstr "Ī'ṅṽāƚīđ ēṁāīƚ āđđṙēṡṡ"
+
+#. Label for "remember me on this computer" checkbox
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Keep me signed-in on this computer."
+msgstr "Ķ'ēēṗ ṁē ṡīḡṅēđ-īṅ ōṅ ṫħīṡ ċōṁṗūṫēṙ."
+
+#. Label above email address field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "New password ({0} character minimum)"
+msgstr "Ň''ēẇ ṗāṡṡẇōṙđ ({0} ċħāṙāċṫēṙ ṁīṅīṁūṁ)"
+
+#. text on the button directing users to the next page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Next"
+msgstr "Ň'ēẋṫ"
+
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Not a member? Create an account free"
+msgstr "Ň'ōṫ ā ṁēṁƃēṙ? Ƈṙēāṫē āṅ āċċōūṅṫ ḟṙēē"
+
+#. Label above password field
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Password"
+msgstr "Ṕ'āṡṡẇōṙđ"
+
+#. Error text when password is too short
+#. Error message when password is less than {0} characters long
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "Password must be at least {0} characters long"
+msgstr "Ṕ''āṡṡẇōṙđ ṁūṡṫ ƃē āṫ ƚēāṡṫ {0} ċħāṙāċṫēṙṡ ƚōṅḡ"
+
+#. Error text when passwords do not match
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Passwords do not match"
+msgstr "Ṕ'āṡṡẇōṙđṡ đō ṅōṫ ṁāṫċħ"
+
+#. label text asking users to enter the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Phone number"
+msgstr "Ṕ'ħōṅē ṅūṁƃēṙ"
+
+#. Error message when password is empty.  {0} is minimum characters required.
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "Please enter a password at least {0} characters long"
+msgstr "Ṕ''ƚēāṡē ēṅṫēṙ ā ṗāṡṡẇōṙđ āṫ ƚēāṡṫ {0} ċħāṙāċṫēṙṡ ƚōṅḡ"
+
+#. Error text when user enter an incorrect email address
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Please enter a valid email address"
+msgstr "Ṕ'ƚēāṡē ēṅṫēṙ ā ṽāƚīđ ēṁāīƚ āđđṙēṡṡ"
+
+#. Error text for user not entering an email address
+#. Error when somebody forgets to input their email address while registering
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please enter your email address"
+msgstr "Ṕ'ƚēāṡē ēṅṫēṙ ẏōūṙ ēṁāīƚ āđđṙēṡṡ"
+
+#. Message shown when there is a page-level validation error
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please fix any errors on the page"
+msgstr "Ṕ'ƚēāṡē ḟīẋ āṅẏ ēṙṙōṙṡ ōṅ ṫħē ṗāḡē"
+
+#. Error when somebody does not retype their password
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please re-type your email address"
+msgstr "Ṕ'ƚēāṡē ṙē-ṫẏṗē ẏōūṙ ēṁāīƚ āđđṙēṡṡ"
+
+#. error message to ask users to select a contact method
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Please select a contact method."
+msgstr "Ṕ'ƚēāṡē ṡēƚēċṫ ā ċōṅṫāċṫ ṁēṫħōđ."
+
+#. label above the contact selection box
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Preferred contact method"
+msgstr "Ṕ'ṙēḟēṙṙēđ ċōṅṫāċṫ ṁēṫħōđ"
+
+#. Label above email address field
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Re-type Email"
+msgstr "Ŕ'ē-ṫẏṗē Ĕṁāīƚ"
+
+#. Label above confirm password field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Re-type password"
+msgstr "Ŕ'ē-ṫẏṗē ṗāṡṡẇōṙđ"
+
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Password"
+msgstr "Ŕ'ēṡēṫ Ṕāṡṡẇōṙđ"
+
+#. Login page header
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Your Password"
+msgstr "Ŕ'ēṡēṫ Ŷōūṙ Ṕāṡṡẇōṙđ"
+
+#. Login page header
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "header"
+msgid "Reset Your Password"
+msgstr "Ŕ'ēṡēṫ Ŷōūṙ Ṕāṡṡẇōṙđ"
+
+#. label to prompt users to send SMS
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Send a text message (SMS)"
+msgstr "Š'ēṅđ ā ṫēẋṫ ṁēṡṡāḡē (ŠḾŠ)"
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Send email again"
+msgstr "Š'ēṅđ ēṁāīƚ āḡāīṅ"
+
+#. Navigation link from forgot password page to sign in
+#. Login Button Text
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "button or link to sign in"
+msgid "Sign In"
+msgstr "Š'īḡṅ Īṅ"
+
+#. Login page header
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "header"
+msgid "Sign In"
+msgstr "Š'īḡṅ Īṅ"
+
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Sign in"
+msgstr "Š'īḡṅ īṅ"
+
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Sign in to view and edit your Indeed Resume, or apply to jobs easily with it."
+msgstr "Š'īḡṅ īṅ ṫō ṽīēẇ āṅđ ēđīṫ ẏōūṙ Īṅđēēđ Ŕēṡūṁē, ōṙ āṗṗƚẏ ṫō ɉōƃṡ ēāṡīƚẏ ẇīṫħ īṫ."
+
+#. Text for "Log in with Facebook" button
+#: web/static/app/js/components/Facebook.js:1
+msgid "Sign in with Facebook"
+msgstr "Š'īḡṅ īṅ ẇīṫħ Ƒāċēƃōōҟ"
+
+#. label on the submit button
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Submit"
+msgstr "Š'ūƃṁīṫ"
+
+#. Forgot Password Button Text
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "button"
+msgid "Submit"
+msgstr "Š'ūƃṁīṫ"
+
+#. text to notify the user the number has been verified
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "Thanks, your phone number is verified."
+msgstr "Ť'ħāṅҟṡ, ẏōūṙ ṗħōṅē ṅūṁƃēṙ īṡ ṽēṙīḟīēđ."
+
+#. Error message when the confirmation code is wrong
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "The confirmation code does not match"
+msgstr "Ť'ħē ċōṅḟīṙṁāṫīōṅ ċōđē đōēṡ ṅōṫ ṁāṫċħ"
+
+#. Error text when the link is expired
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is expired."
+msgstr "Ť'ħē ƚīṅҟ ṫō ṙēṡēṫ ẏōūṙ ṗāṡṡẇōṙđ īṡ ēẋṗīṙēđ."
+
+#. Error text when the link is invalid
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is invalid."
+msgstr "Ť'ħē ƚīṅҟ ṫō ṙēṡēṫ ẏōūṙ ṗāṡṡẇōṙđ īṡ īṅṽāƚīđ."
+
+#. Text to notify users an error happened and try again
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "There was an error verifying your phone, please try again."
+msgstr "Ť'ħēṙē ẇāṡ āṅ ēṙṙōṙ ṽēṙīḟẏīṅḡ ẏōūṙ ṗħōṅē, ṗƚēāṡē ṫṙẏ āḡāīṅ."
+
+#. text to tell users why we need to verify the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "To provide the best experience for job seekers and employers, we need to verify that the phone number associated with your account belongs to you. The verification process is automated and takes less than a minute."
+msgstr "Ť'ō ṗṙōṽīđē ṫħē ƃēṡṫ ēẋṗēṙīēṅċē ḟōṙ ɉōƃ ṡēēҟēṙṡ āṅđ ēṁṗƚōẏēṙṡ, ẇē ṅēēđ ṫō ṽēṙīḟẏ ṫħāṫ ṫħē ṗħōṅē ṅūṁƃēṙ āṡṡōċīāṫēđ ẇīṫħ ẏōūṙ āċċōūṅṫ ƃēƚōṅḡṡ ṫō ẏōū. Ťħē ṽēṙīḟīċāṫīōṅ ṗṙōċēṡṡ īṡ āūṫōṁāṫēđ āṅđ ṫāҟēṡ ƚēṡṡ ṫħāṅ ā ṁīṅūṫē."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Using a non-company email may delay account verification. We encourage the use of a company email to make your jobs go live faster."
+msgstr "Ũ'ṡīṅḡ ā ṅōṅ-ċōṁṗāṅẏ ēṁāīƚ ṁāẏ đēƚāẏ āċċōūṅṫ ṽēṙīḟīċāṫīōṅ. Ŵē ēṅċōūṙāḡē ṫħē ūṡē ōḟ ā ċōṁṗāṅẏ ēṁāīƚ ṫō ṁāҟē ẏōūṙ ɉōƃṡ ḡō ƚīṽē ḟāṡṫēṙ."
+
+#. label text asking users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Verification code"
+msgstr "Ṽ'ēṙīḟīċāṫīōṅ ċōđē"
+
+#. text to tell users the code has been sent. The parameter is the phone number.
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, python-brace-format
+msgid "Verification code sent to {0}. Enter the code you received below."
+msgstr "Ṽ''ēṙīḟīċāṫīōṅ ċōđē ṡēṅṫ ṫō {0}. Ĕṅṫēṙ ṫħē ċōđē ẏōū ṙēċēīṽēđ ƃēƚōẇ."
+
+#. header of the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Verify your phone number"
+msgstr "Ṽ'ēṙīḟẏ ẏōūṙ ṗħōṅē ṅūṁƃēṙ"
+
+#. text to tell job seeker a confirmation email has been sent to them. {0} is the stake of the email address.
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, python-brace-format
+msgid "We also just sent a confirmation email to {0}. Click on the confirmation link in the email to verify your email address so that employers can reach you via email."
+msgstr "Ŵ''ē āƚṡō ɉūṡṫ ṡēṅṫ ā ċōṅḟīṙṁāṫīōṅ ēṁāīƚ ṫō {0}. Ƈƚīċҟ ōṅ ṫħē ċōṅḟīṙṁāṫīōṅ ƚīṅҟ īṅ ṫħē ēṁāīƚ ṫō ṽēṙīḟẏ ẏōūṙ ēṁāīƚ āđđṙēṡṡ ṡō ṫħāṫ ēṁṗƚōẏēṙṡ ċāṅ ṙēāċħ ẏōū ṽīā ēṁāīƚ."
+
+#. Legal disclaimer for facebook login button (line 2)
+#: web/static/app/js/components/Facebook.js:1
+msgid "We won't post anything without your permission."
+msgstr "Ŵ'ē ẇōṅ'ṫ ṗōṡṫ āṅẏṫħīṅḡ ẇīṫħōūṫ ẏōūṙ ṗēṙṁīṡṡīōṅ."
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your account has been temporarily locked because of security concerns. To unlock this account, you must reset your password. We have emailed you instructions for resetting your password at {0}"
+msgstr "Ŷ''ōūṙ āċċōūṅṫ ħāṡ ƃēēṅ ṫēṁṗōṙāṙīƚẏ ƚōċҟēđ ƃēċāūṡē ōḟ ṡēċūṙīṫẏ ċōṅċēṙṅṡ. Ťō ūṅƚōċҟ ṫħīṡ āċċōūṅṫ, ẏōū ṁūṡṫ ṙēṡēṫ ẏōūṙ ṗāṡṡẇōṙđ. Ŵē ħāṽē ēṁāīƚēđ ẏōū īṅṡṫṙūċṫīōṅṡ ḟōṙ ṙēṡēṫṫīṅḡ ẏōūṙ ṗāṡṡẇōṙđ āṫ {0}"
+
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Your email is associated with an existing account."
+msgstr "Ŷ'ōūṙ ēṁāīƚ īṡ āṡṡōċīāṫēđ ẇīṫħ āṅ ēẋīṡṫīṅḡ āċċōūṅṫ."
+
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Your password has been reset."
+msgstr "Ŷ'ōūṙ ṗāṡṡẇōṙđ ħāṡ ƃēēṅ ṙēṡēṫ."
+
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your password has been reset. [Sign In|{0}]"
+msgstr "Ŷ''ōūṙ ṗāṡṡẇōṙđ ħāṡ ƃēēṅ ṙēṡēṫ. [Šīḡṅ Īṅ|{0}]"
+
+#. Error text when password is too common
+#. Error when password is in the 10k most commonly used passwords
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Your password is too simple. Make it more secure by using capitalization, numbers and special characters, or by making it longer."
+msgstr "Ŷ'ōūṙ ṗāṡṡẇōṙđ īṡ ṫōō ṡīṁṗƚē. Ḿāҟē īṫ ṁōṙē ṡēċūṙē ƃẏ ūṡīṅḡ ċāṗīṫāƚīžāṫīōṅ, ṅūṁƃēṙṡ āṅđ ṡṗēċīāƚ ċħāṙāċṫēṙṡ, ōṙ ƃẏ ṁāҟīṅḡ īṫ ƚōṅḡēṙ."
+
+#. divider between sign in and facebook sign in
+#: web/static/app/js/components/Facebook.js:1
+msgctxt "separates different sign in methods"
+msgid "or"
+msgstr "ō'ṙ"
+
+#. Error text when you failed to pass recaptcha
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "reCAPTCHA validation unsuccessful. Please try again."
+msgstr "ṙ'ēƇĂṔŤƇĤĂ ṽāƚīđāṫīōṅ ūṅṡūċċēṡṡḟūƚ. Ṕƚēāṡē ṫṙẏ āḡāīṅ."
+
+#. Error message when the phone number has been used. {0} is the parameter of phone number.
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, python-brace-format
+msgid "{0} is associated with another account. Please enter a different number where you can be reached directly."
+msgstr "{0} ī''ṡ āṡṡōċīāṫēđ ẇīṫħ āṅōṫħēṙ āċċōūṅṫ. Ṕƚēāṡē ēṅṫēṙ ā đīḟḟēṙēṅṫ ṅūṁƃēṙ ẇħēṙē ẏōū ċāṅ ƃē ṙēāċħēđ đīṙēċṫƚẏ."

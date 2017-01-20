@@ -1,0 +1,549 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-04 14:42-0700\n"
+"PO-Revision-Date: 2016-09-30 11:01-0500\n"
+"Last-Translator: Iryna Krutenko <iryna@indeed.com>\n"
+"Language-Team: Ukrainian <http://example.com/weblate/projects/indeed/passport-webapp-po/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 1.8\n"
+
+# * Status: human_api_translated
+#. Error when somebody already registered this account
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Account already exists"
+msgstr "Обліковий запис вже існує"
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 1)
+#: web/static/app/js/components/Facebook.js:1
+msgid "All job search information is kept private."
+msgstr "Вся інформація про пошук роботи є конфіденційною."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "By creating an account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "Створюючи обліковий запис, ви погоджуєтесь з нашими <a {0}>Умовами надання послуг</a> і приймаєте <a {2}>Політику Cookie</a> та <a {1}>Політику конфіденційності</a> Indeed."
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "By modifying your account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "Змінюючи ваш обліковий запис, ви погоджуєтесь з нашими <a {0}>Умовами надання послуг</a> і приймаєте <a {2}>Політику Cookie</a> та <a {1}>Політику конфіденційності</a> Indeed."
+
+# * Status: human_api_translated
+#. disclaimer on the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "By providing your phone number you are consenting to receive messages from Indeed.com via text messages. Message and data rates may apply."
+msgstr "Надаючи свій номер телефону, ви погоджуєтесь отримувати текстові повідомлення від Indeed.com. За повідомлення та передачу даних може стягуватися плата."
+
+#: web/WEB-INF/themes/drawsignup/global_nav.jsp:1
+#: web/WEB-INF/themes/default/global_nav.jsp:1
+#, java-format
+msgctxt "common-strings"
+msgid "By using Indeed, you agree to our new <a {0}>Terms</a>."
+msgstr ""
+
+# * Status: human_api_translated
+#. Alert text for new term of service
+#: web/static/app/js/components/LegalNotice.js:1
+msgid "By using Indeed, you agree to our new [Terms|{0}]."
+msgstr "Використовуючи Indeed, ви погоджуєтесь з нашими новими [Умовами|{0}]."
+
+# * Status: human_api_translated
+#. message when the call has been canceld
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "Call canceled"
+msgstr "Дзвінок скасовано"
+
+# * Status: human_api_translated
+#. text on the button that makes the phone call
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Call me again"
+msgstr "Зателефонуйте мені ще раз"
+
+# * Status: human_api_translated
+#. prompt users to make a phone call
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Call me now"
+msgstr "Зателефонуйте мені зараз"
+
+# * Status: human_api_translated
+#. text to tell users the number is being called. The parameter is the phone number
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Calling {0}"
+msgstr "Встановлення зв’язку з {0}"
+
+# * Status: human_api_translated
+#. Cancel login
+#. label on the cancel button
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Cancel"
+msgstr "Скасувати"
+
+# * Status: human_api_translated
+#. Prompt users to change the country
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+#, fuzzy
+msgid "Change country"
+msgstr "Змінити країну"
+
+# * Status: human_api_translated
+#. Prompt users to confirm the country code
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+#, fuzzy
+msgid "Confirm"
+msgstr "Підтвердити"
+
+# * Status: human_api_translated
+#. Text shown to a user after a successful facebook login just before we reload the page.
+#: web/static/app/js/components/Facebook.js:1
+msgid "Connected. Please wait..."
+msgstr "З'єднання встановлено. Будь ласка, зачекайте…"
+
+# * Status: human_api_translated
+#. text on the continue button
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, fuzzy
+msgid "Continue"
+msgstr "Продовжити"
+
+# * Status: human_api_translated
+#. Login Button Text
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "button"
+msgid "Create Account"
+msgstr "Створити обліковий запис"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "header"
+msgid "Create an Account (it's free)"
+msgstr "Створити обліковий запис (безкоштовно)"
+
+# * Status: human_api_translated
+#. text to tell users a confirmation email has been sent
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Do you prefer to verify your account by email? Click on the link in the email we just sent you!"
+msgstr "Бажаєте підтвердити свій обліковий запис через електронну пошту? Перейдіть за посиланням в електронному листі, який ми вам щойно надіслали!"
+
+#. Label above email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email Address"
+msgstr "Адреса електронної пошти"
+
+# * Status: human_api_translated
+#. Prompt text of user's email address */ }
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Email address: [{0}|{1}]"
+msgstr "Адреса електронної пошти: [{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error when email & confirm email addresses do not match
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Email addresses don't match"
+msgstr "Адреси електронної пошти не співпадають"
+
+# * Status: human_api_translated
+#. Error message when the given phone number is invalid
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "Enter a valid phone number without a phone extension, such as your cell phone number."
+msgstr "Введіть дійсний номер телефону, наприклад, номер вашого мобільного телефону."
+
+# * Status: human_api_translated
+#. Prompt for user to enter email address
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter the email associated with your Indeed account and we'll send you instructions to reset your password."
+msgstr "Введіть адресу електронної пошти, що пов'язана з вашим обліковим записом Indeed, і ми надішлемо вам інструкції для зміни пароля."
+
+# * Status: human_api_translated
+#. label to prompt users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Enter this verification code on your phone:"
+msgstr "Введіть цей код підтвердження на вашому телефоні:"
+
+# * Status: human_api_translated
+#. Placeholder text for email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter your email"
+msgstr "Введіть адресу електронної пошти"
+
+#: src/java/com/indeed/passport/webapp/controllers/FacebookLoginController.java:1
+msgid "Facebook login failed"
+msgstr ""
+
+# * Status: human_api_translated
+#. Navigation link from login page to forgot your password page
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Forgot Your Password?"
+msgstr "Забули пароль?"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Have an account?  Sign in"
+msgstr "Вже зареєстровані? Увійдіть у свій обліковий запис"
+
+# * Status: human_api_translated
+#. Navigation link from login page to help center
+#. Navigation link from forgot password page to help center
+#. Navigation link from login page to help center
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Help Center"
+msgstr "Центр підтримки"
+
+# * Status: human_api_translated
+#. Prompt for email sent success. {0} is recipient's email address.*/ }
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "If you have an Indeed account, you'll receive instructions for resetting your password at [{0}|{1}]"
+msgstr "Якщо у вас є обліковий запис Indeed, ви отримаєте інструкції для зміни пароля на [{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error text when you enter an incorrect password or email address
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Incorrect password or email address"
+msgstr "Невірний пароль або адреса електронної пошти"
+
+# * Status: human_api_translated
+#. Error when somebody attempts to register an account with an invalid email address
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Invalid email address"
+msgstr "Невірна адреса електронної пошти"
+
+#. Label for "remember me on this computer" checkbox
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Keep me signed-in on this computer."
+msgstr "Запам'ятати мене на цьому комп'ютері."
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "New password ({0} character minimum)"
+msgstr "Новий пароль (мінімум {0} символів)"
+
+# * Status: human_api_translated
+#. text on the button directing users to the next page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Next"
+msgstr "Далі"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Not a member? Create an account free"
+msgstr "Ще не зареєстровані? Створіть обліковий запис безкоштовно"
+
+#. Label above password field
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Password"
+msgstr "Пароль"
+
+# * Status: human_api_translated
+#. Error text when password is too short
+#. Error message when password is less than {0} characters long
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "Password must be at least {0} characters long"
+msgstr "Пароль повинен складатись щонайменше з {0} символів"
+
+# * Status: human_api_translated
+#. Error text when passwords do not match
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "Passwords do not match"
+msgstr "Паролі не співпадають"
+
+#. label text asking users to enter the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Phone number"
+msgstr "Номер телефону"
+
+# * Status: human_api_translated
+#. Error message when password is empty.  {0} is minimum characters required.
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please enter a password at least {0} characters long"
+msgstr "Будь ласка, введіть пароль довжиною щонайменше {0} символів"
+
+# * Status: human_api_translated
+#. Error text when user enter an incorrect email address
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Please enter a valid email address"
+msgstr "Будь ласка, введіть дійсну адресу електронної пошти"
+
+# * Status: human_api_translated
+#. Error text for user not entering an email address
+#. Error when somebody forgets to input their email address while registering
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please enter your email address"
+msgstr "Будь ласка, введіть адресу вашої електронної пошти"
+
+# * Status: human_api_translated
+#. Message shown when there is a page-level validation error
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please fix any errors on the page"
+msgstr "Будь ласка, виправте будь-які помилки на сторінці"
+
+# * Status: human_api_translated
+#. Error when somebody does not retype their password
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please re-type your email address"
+msgstr "Будь ласка, введіть адресу вашої електронної пошти ще раз"
+
+# * Status: human_api_translated
+#. error message to ask users to select a contact method
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Please select a contact method."
+msgstr "Будь ласка, виберіть спосіб зв’язку"
+
+# * Status: human_api_translated
+#. label above the contact selection box
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Preferred contact method"
+msgstr "Рекомендований спосіб контакту"
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Re-type Email"
+msgstr "Повторіть адресу електронної пошти"
+
+# * Status: human_api_translated
+#. Label above confirm password field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Re-type password"
+msgstr "Повторіть пароль"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Password"
+msgstr "Змінити пароль"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Your Password"
+msgstr "Змініть свій пароль"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "header"
+msgid "Reset Your Password"
+msgstr "Змініть свій пароль"
+
+# * Status: human_api_translated
+#. label to prompt users to send SMS
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Send a text message (SMS)"
+msgstr "Відправити текстове повідомлення (SMS)"
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Send email again"
+msgstr ""
+
+#. Navigation link from forgot password page to sign in
+#. Login Button Text
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "button or link to sign in"
+msgid "Sign In"
+msgstr "Увійти"
+
+#. Login page header
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "header"
+msgid "Sign In"
+msgstr "Увійти"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, fuzzy
+msgid "Sign in"
+msgstr "Увійти"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Sign in to view and edit your Indeed Resume, or apply to jobs easily with it."
+msgstr "Увійдіть в систему, щоб переглянути та відредагувати ваше Indeed резюме або відгукнутися на вакансію."
+
+#. Text for "Log in with Facebook" button
+#: web/static/app/js/components/Facebook.js:1
+msgid "Sign in with Facebook"
+msgstr "Увійти за допомогою Facebook"
+
+# * Status: human_api_translated
+#. label on the submit button
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Submit"
+msgstr "Надіслати"
+
+# * Status: human_api_translated
+#. Forgot Password Button Text
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "button"
+msgid "Submit"
+msgstr "Надіслати"
+
+# * Status: human_api_translated
+#. text to notify the user the number has been verified
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "Thanks, your phone number is verified."
+msgstr "Дякуємо, ваш номер телефону підтверджено."
+
+# * Status: human_api_translated
+#. Error message when the confirmation code is wrong
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "The confirmation code does not match"
+msgstr "Невірний код підтвердження"
+
+# * Status: human_api_translated
+#. Error text when the link is expired
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is expired."
+msgstr "Термін дії посилання для зміни пароля закінчився."
+
+# * Status: human_api_translated
+#. Error text when the link is invalid
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is invalid."
+msgstr "Невірне посилання для зміни пароля."
+
+# * Status: human_api_translated
+#. Text to notify users an error happened and try again
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "There was an error verifying your phone, please try again."
+msgstr "Під час перевірки номера телефону виникла помилка. Будь ласка, спробуйте ще раз."
+
+# * Status: human_api_translated
+#. text to tell users why we need to verify the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "To provide the best experience for job seekers and employers, we need to verify that the phone number associated with your account belongs to you. The verification process is automated and takes less than a minute."
+msgstr "Щоб забезпечити надання послуг для пошукачів і роботодавців на найкращому рівні, ми повинні переконатися, що номер телефону, пов'язаний з вашим обліковим записом, належить саме вам. Процес підтвердження автоматизований і забере менше хвилини."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Using a non-company email may delay account verification. We encourage the use of a company email to make your jobs go live faster."
+msgstr ""
+
+# * Status: human_api_translated
+#. label text asking users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Verification code"
+msgstr "Код підтвердження"
+
+# * Status: human_api_translated
+#. text to tell users the code has been sent. The parameter is the phone number.
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Verification code sent to {0}. Enter the code you received below."
+msgstr "Код підтвердження відправлено на {0}. Введіть отриманий код нижче."
+
+# * Status: human_api_translated
+#. header of the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Verify your phone number"
+msgstr "Підтвердіть ваш номер телефону"
+
+# * Status: human_api_translated
+#. text to tell job seeker a confirmation email has been sent to them. {0} is the stake of the email address.
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "We also just sent a confirmation email to {0}. Click on the confirmation link in the email to verify your email address so that employers can reach you via email."
+msgstr "Ми також щойно надіслали електронного листа на {0} для підтвердження адреси електронної пошти. Перейдіть за посиланням в листі, щоб роботодавці могли зв''язатися з вами по електронній пошті."
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 2)
+#: web/static/app/js/components/Facebook.js:1
+msgid "We won't post anything without your permission."
+msgstr "Ми не будемо розміщувати будь-яку інформацію без вашого дозволу."
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your account has been temporarily locked because of security concerns. To unlock this account, you must reset your password. We have emailed you instructions for resetting your password at {0}"
+msgstr ""
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Your email is associated with an existing account."
+msgstr "Ваша адреса електронної пошти пов'язана з існуючим обліковим записом."
+
+# * Status: human_api_translated
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Your password has been reset."
+msgstr "Ваш пароль змінено."
+
+# * Status: human_api_translated
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Your password has been reset. [Sign In|{0}]"
+msgstr "Ваш пароль змінено. [Увійти|{0}]"
+
+#. Error text when password is too common
+#. Error when password is in the 10k most commonly used passwords
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Your password is too simple. Make it more secure by using capitalization, numbers and special characters, or by making it longer."
+msgstr "Ваш пароль занадто простий. Щоб зробити пароль надійнішим, використовуйте великі літери, цифри та спеціальні символи або зробіть його довшим."
+
+#. divider between sign in and facebook sign in
+#: web/static/app/js/components/Facebook.js:1
+msgctxt "separates different sign in methods"
+msgid "or"
+msgstr "або"
+
+#. Error text when you failed to pass recaptcha
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "reCAPTCHA validation unsuccessful. Please try again."
+msgstr ""
+
+# * Status: human_api_translated
+#. Error message when the phone number has been used. {0} is the parameter of phone number.
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "{0} is associated with another account. Please enter a different number where you can be reached directly."
+msgstr "{0} пов''язаний з іншим обліковим записом. Будь ласка, введіть інший номер, за яким з вами можна безпосередньо зв''язатись."
+
+#~ msgid "Incorrect login or password"
+#~ msgstr "Неправильне ім’я користувача чи пароль"
+
+#~ msgid "Sign In"
+#~ msgstr "Увійти"
+
+#~ msgctxt "button"
+#~ msgid "Sign In"
+#~ msgstr "Увійти"

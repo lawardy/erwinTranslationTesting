@@ -1,0 +1,555 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-08 18:28-0800\n"
+"PO-Revision-Date: 2016-06-07 10:40-0500\n"
+"Last-Translator: Seung Lee <seung@indeed.com>\n"
+"Language-Team: Korean <http://example.com/weblate/projects/indeed/passport-webapp-po/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 1.8\n"
+
+# * Status: human_api_translated
+#. Error when somebody already registered this account
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Account already exists"
+msgstr "계정이 이미 존재합니다."
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 1)
+#: web/static/app/js/components/Facebook.js:1
+msgid "All job search information is kept private."
+msgstr "모든 검색정보는 비밀이 보장됩니다."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "By creating an account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "회원가입을 하시면 인디드의 <a {0}>서비스 이용약관</a>과 <a {2}>쿠키 정책</a> 및 <a {1}>개인정보 취급방침</a>에 동의하게 됩니다."
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, python-brace-format
+msgid "By modifying your account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "계정을 변경함으로, 인디드의 <a {0}>서비스 이용약관</a>, <a {2}>쿠키 정책</a> 그리고  <a {1}>개인정보 보호 정책</a>에 동의하시게 됩니다."
+
+# * Status: human_api_translated
+#. disclaimer on the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "By providing your phone number you are consenting to receive messages from Indeed.com via text messages. Message and data rates may apply."
+msgstr "전화번호를 알려주시면 인디드의 문자 메시지를 수신하는데 동의하게 됩니다. 메시지 및 데이터 요금이 부과될 수 있습니다."
+
+#: web/WEB-INF/themes/drawsignup/global_nav.jsp:1
+#: web/WEB-INF/themes/default/global_nav.jsp:1
+#, java-format
+msgctxt "common-strings"
+msgid "By using Indeed, you agree to our new <a {0}>Terms</a>."
+msgstr ""
+
+# * Status: human_api_translated
+#. Alert text for new term of service
+#: web/static/app/js/components/LegalNotice.js:1
+#, python-brace-format
+msgid "By using Indeed, you agree to our new [Terms|{0}]."
+msgstr "인디드를 이용함으로, 본사의 새로운 [약관|{0}]에 동의하게 됩니다."
+
+# * Status: human_api_translated
+#. message when the call has been canceld
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "Call canceled"
+msgstr "통화 취소됨"
+
+# * Status: human_api_translated
+#. text on the button that makes the phone call
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Call me again"
+msgstr "다시 전화하기"
+
+# * Status: human_api_translated
+#. prompt users to make a phone call
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Call me now"
+msgstr "전화 인증"
+
+# * Status: human_api_translated
+#. text to tell users the number is being called. The parameter is the phone number
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, python-brace-format
+msgid "Calling {0}"
+msgstr "{0} 전화 거는중"
+
+# * Status: human_api_translated
+#. Cancel login
+#. label on the cancel button
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Cancel"
+msgstr "취소"
+
+# * Status: human_api_translated
+#. Prompt users to change the country
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+#, fuzzy
+msgid "Change country"
+msgstr "국가 변경"
+
+# * Status: human_api_translated
+#. Prompt users to confirm the country code
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+#, fuzzy
+msgid "Confirm"
+msgstr "확인"
+
+# * Status: human_api_translated
+#. Text shown to a user after a successful facebook login just before we reload the page.
+#: web/static/app/js/components/Facebook.js:1
+msgid "Connected. Please wait..."
+msgstr "연결되었습니다. 조금만 기다려 주세요..."
+
+# * Status: human_api_translated
+#. text on the continue button
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, fuzzy
+msgid "Continue"
+msgstr "계속"
+
+# * Status: human_api_translated
+#. Login Button Text
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "button"
+msgid "Create Account"
+msgstr "회원 가입"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/RegisterPage.js:1
+msgctxt "header"
+msgid "Create an Account (it's free)"
+msgstr "무료로 회원가입 하세요"
+
+# * Status: human_api_translated
+#. text to tell users a confirmation email has been sent
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Do you prefer to verify your account by email? Click on the link in the email we just sent you!"
+msgstr "계정 인증을 이메일로 하시겠습니까? 조금 전 발송해드린 이메일 안의 링크를 클릭하세요!"
+
+#. Label above email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email Address"
+msgstr "이메일"
+
+# * Status: human_api_translated
+#. Prompt text of user's email address */ }
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy, python-brace-format
+msgid "Email address: [{0}|{1}]"
+msgstr "이 메일 주소: [{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error when email & confirm email addresses do not match
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email addresses don't match"
+msgstr "이메일 주소가 일치하지 않습니다."
+
+# * Status: human_api_translated
+#. Error message when the given phone number is invalid
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "Enter a valid phone number without a phone extension, such as your cell phone number."
+msgstr "핸드폰 번호 같은 내선 번호가 아닌 유효한 전화번호를 입력하세요."
+
+# * Status: human_api_translated
+#. Prompt for user to enter email address
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter the email associated with your Indeed account and we'll send you instructions to reset your password."
+msgstr "인디드 계정 등록시 사용한 이메일 계정을 입력하세요. 비밀번호를 재설정 하시는 방법을 메일로 보내드리겠습니다."
+
+# * Status: human_api_translated
+#. label to prompt users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Enter this verification code on your phone:"
+msgstr "인증번호를 폰에서 입력하세요:"
+
+# * Status: human_api_translated
+#. Placeholder text for email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Enter your email"
+msgstr "이메일 주소를 입력하세요"
+
+#: src/java/com/indeed/passport/webapp/controllers/FacebookLoginController.java:1
+msgid "Facebook login failed"
+msgstr ""
+
+# * Status: human_api_translated
+#. Navigation link from login page to forgot your password page
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Forgot Your Password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Have an account?  Sign in"
+msgstr "이미 계정이 있으신가요? 로그인하기"
+
+# * Status: human_api_translated
+#. Navigation link from login page to help center
+#. Navigation link from forgot password page to help center
+#. Navigation link from login page to help center
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Help Center"
+msgstr "고객센터"
+
+# * Status: human_api_translated
+#. Prompt for email sent success. {0} is recipient's email address.*/ }
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, python-brace-format
+msgid "If you have an Indeed account, you'll receive instructions for resetting your password at [{0}|{1}]"
+msgstr "인디드 계정이 있으시면 비밀번호 재설정 방법에 관한 메일을 받으실 것입니다 [{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error text when you enter an incorrect password or email address
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Incorrect password or email address"
+msgstr "비밀번호나 이메일 주소가 올바르지 않습니다"
+
+# * Status: human_api_translated
+#. Error when somebody attempts to register an account with an invalid email address
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Invalid email address"
+msgstr "올바르지 않은 이메일 주소입니다"
+
+#. Label for "remember me on this computer" checkbox
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Keep me signed-in on this computer."
+msgstr "이 컴퓨터에서 로그인 상태 유지"
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "New password ({0} character minimum)"
+msgstr "새 비밀번호 (최소 {0}자)"
+
+# * Status: human_api_translated
+#. text on the button directing users to the next page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Next"
+msgstr "다음"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Not a member? Create an account free"
+msgstr "회원이 아니신가요? 무료로 가입하세요"
+
+#. Label above password field
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Password"
+msgstr "비밀번호"
+
+# * Status: human_api_translated
+#. Error text when password is too short
+#. Error message when password is less than {0} characters long
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "Password must be at least {0} characters long"
+msgstr "비밀번호는 최소 {0}자 이상이어야 합니다."
+
+# * Status: human_api_translated
+#. Error text when passwords do not match
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Passwords do not match"
+msgstr "비밀번호가 일치하지 않습니다"
+
+#. label text asking users to enter the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Phone number"
+msgstr "전화번호"
+
+# * Status: human_api_translated
+#. Error message when password is empty.  {0} is minimum characters required.
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "Please enter a password at least {0} characters long"
+msgstr "최소 {0}자 이상의 비밀번호를 입력하세요"
+
+# * Status: human_api_translated
+#. Error text when user enter an incorrect email address
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "Please enter a valid email address"
+msgstr "정확한 이메일 주소를 입력하세요"
+
+# * Status: human_api_translated
+#. Error text for user not entering an email address
+#. Error when somebody forgets to input their email address while registering
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please enter your email address"
+msgstr "이메일 주소를 입력하세요"
+
+# * Status: human_api_translated
+#. Message shown when there is a page-level validation error
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please fix any errors on the page"
+msgstr "이 페이지의 오류를 수정해주세요"
+
+# * Status: human_api_translated
+#. Error when somebody does not retype their password
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Please re-type your email address"
+msgstr "이메일 주소를 다시 입력해주세요"
+
+# * Status: human_api_translated
+#. error message to ask users to select a contact method
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Please select a contact method."
+msgstr "연락 방법을 선택하십시오."
+
+# * Status: human_api_translated
+#. label above the contact selection box
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Preferred contact method"
+msgstr "선호하는 인증 연락 방법"
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Re-type Email"
+msgstr "이메일을 다시 입력하세요"
+
+# * Status: human_api_translated
+#. Label above confirm password field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Re-type password"
+msgstr "이메일을 다시 입력 하세요"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Password"
+msgstr "비밀번호 재설정"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Reset Your Password"
+msgstr "비밀번호를 재설정하세요"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "header"
+msgid "Reset Your Password"
+msgstr "비밀번호를 재설정하세요"
+
+# * Status: human_api_translated
+#. label to prompt users to send SMS
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Send a text message (SMS)"
+msgstr "문자 보내기 (SMS)"
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Send email again"
+msgstr ""
+
+#. Navigation link from forgot password page to sign in
+#. Login Button Text
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "button or link to sign in"
+msgid "Sign In"
+msgstr "로그인"
+
+#. Login page header
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "header"
+msgid "Sign In"
+msgstr "로그인"
+
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Sign in"
+msgstr ""
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+#, fuzzy
+msgid "Sign in to view and edit your Indeed Resume, or apply to jobs easily with it."
+msgstr "Indeed의 이력서를 열람하고 편집하거나 이를 이용하여 입사 지원 하시려면 등록하십시오."
+
+# * Status: human_api_translated
+#. Text for "Log in with Facebook" button
+#: web/static/app/js/components/Facebook.js:1
+msgid "Sign in with Facebook"
+msgstr "페이스북 계정으로 로그인"
+
+# * Status: human_api_translated
+#. label on the submit button
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, fuzzy
+msgid "Submit"
+msgstr "제출"
+
+# * Status: human_api_translated
+#. Forgot Password Button Text
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgctxt "button"
+msgid "Submit"
+msgstr "확인"
+
+# * Status: human_api_translated
+#. text to notify the user the number has been verified
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+msgid "Thanks, your phone number is verified."
+msgstr "감사합니다. 전화번호 인증이 완료되었습니다."
+
+# * Status: human_api_translated
+#. Error message when the confirmation code is wrong
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "The confirmation code does not match"
+msgstr "인증 코드가 일치하지 않습니다."
+
+# * Status: human_api_translated
+#. Error text when the link is expired
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is expired."
+msgstr "비밀번호 재설정을 위한 링크의 유효기간이 만료되었습니다."
+
+# * Status: human_api_translated
+#. Error text when the link is invalid
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+msgid "The link to reset your password is invalid."
+msgstr "비밀번호 재설정을 위한 링크가 유효하지 않습니다."
+
+# * Status: human_api_translated
+#. Text to notify users an error happened and try again
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+msgid "There was an error verifying your phone, please try again."
+msgstr "전화번호 인증 중에 오류가 발생하였습니다. 다시 시도해 주시기 바랍니다."
+
+# * Status: human_api_translated
+#. text to tell users why we need to verify the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "To provide the best experience for job seekers and employers, we need to verify that the phone number associated with your account belongs to you. The verification process is automated and takes less than a minute."
+msgstr "구직자와 고용인 모두를 위해 계정에 등록된 전화번호가 귀하의 번호인지 확인해야 합니다. 인증 절차는 자동으로 수행되며, 1분도 안 걸립니다."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Using a non-company email may delay account verification. We encourage the use of a company email to make your jobs go live faster."
+msgstr ""
+
+# * Status: human_api_translated
+#. label text asking users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+msgid "Verification code"
+msgstr "인증 코드"
+
+# * Status: human_api_translated
+#. text to tell users the code has been sent. The parameter is the phone number.
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, python-brace-format
+msgid "Verification code sent to {0}. Enter the code you received below."
+msgstr "인증 코드를 {0}로 발송했습니다. 수신한 코드를 아래 입력하세요."
+
+# * Status: human_api_translated
+#. header of the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+msgid "Verify your phone number"
+msgstr "전화번호 인증"
+
+# * Status: human_api_translated
+#. text to tell job seeker a confirmation email has been sent to them. {0} is the stake of the email address.
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, python-brace-format
+msgid "We also just sent a confirmation email to {0}. Click on the confirmation link in the email to verify your email address so that employers can reach you via email."
+msgstr "{0}으로 확인 이메일을 전송해 드렸습니다. 이메일로 보내드린 메일 인증 링크를 통해 이메일을 인증하시고 다양한 고용주들의 공고 관련 이메일을 받아보세요."
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 2)
+#: web/static/app/js/components/Facebook.js:1
+msgid "We won't post anything without your permission."
+msgstr "귀하의 허락 없이는 아무것도 게재되지 않습니다."
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your account has been temporarily locked because of security concerns. To unlock this account, you must reset your password. We have emailed you instructions for resetting your password at {0}"
+msgstr ""
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "Your email is associated with an existing account."
+msgstr "입력하신 이메일로 등록된 계정이 있습니다"
+
+# * Status: human_api_translated
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+msgid "Your password has been reset."
+msgstr "비밀번호가 재설정되었습니다."
+
+# * Status: human_api_translated
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your password has been reset. [Sign In|{0}]"
+msgstr "비밀번호가 새로 설정되었습니다. [로그인|{0}]"
+
+#. Error text when password is too common
+#. Error when password is in the 10k most commonly used passwords
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Your password is too simple. Make it more secure by using capitalization, numbers and special characters, or by making it longer."
+msgstr "비밀번호가 너무 간단해 위험합니다. 대문자, 숫자 또는 특수문자를 이용하거나 비밀번호를 길게 만들어 안전하게 보호하세요."
+
+#. divider between sign in and facebook sign in
+#: web/static/app/js/components/Facebook.js:1
+msgctxt "separates different sign in methods"
+msgid "or"
+msgstr "또는"
+
+#. Error text when you failed to pass recaptcha
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "reCAPTCHA validation unsuccessful. Please try again."
+msgstr ""
+
+# * Status: human_api_translated
+#. Error message when the phone number has been used. {0} is the parameter of phone number.
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, python-brace-format
+msgid "{0} is associated with another account. Please enter a different number where you can be reached directly."
+msgstr "{0}은(는) 다른 계정에 등록된 번호입니다. 귀하에게 직접 연락할 수 있는 다른 정확한 번호를 입력해주세요."
+
+#~ msgid "Incorrect login or password"
+#~ msgstr "아이디 또는 비밀번호 오류"

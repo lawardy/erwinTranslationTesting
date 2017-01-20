@@ -1,0 +1,596 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-08 18:28-0800\n"
+"PO-Revision-Date: 2016-06-07 11:38-0500\n"
+"Last-Translator: Sindre Munther <sindre@indeed.com>\n"
+"Language-Team: Danish <http://example.com/weblate/projects/indeed/passport-webapp-po/da/>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 1.8\n"
+
+# * Status: human_api_translated
+#. Error when somebody already registered this account
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Account already exists"
+msgstr "Konto findes allerede"
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 1)
+#: web/static/app/js/components/Facebook.js:1
+#, fuzzy
+msgid "All job search information is kept private."
+msgstr "Alle oplysninger om jobsøgning holdes fortrolige."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+#, python-brace-format
+msgid "By creating an account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "Ved at oprette en konto, accepterer du Indeeds <a {0}>Servicevilkår</a> og samtykker i vores <a {2}>Cookiepolitik</a> og <a {1}>Privatlivspolitik</a>."
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy, python-brace-format
+msgid "By modifying your account, you agree to Indeed's <a {0}>Terms of Service</a> and consent to our <a {2}>Cookie Policy</a> and <a {1}>Privacy Policy</a>."
+msgstr "Ved at ændre din konto, accepterer du Indeeds <a {0}>Vilkår for brug</a> og godkender vores <a {2}>Politik for cookies</a> og <a {1}>Fortrolighedspolitik</a>."
+
+# * Status: human_api_translated
+#. disclaimer on the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "By providing your phone number you are consenting to receive messages from Indeed.com via text messages. Message and data rates may apply."
+msgstr "Ved at oplyse dit telefonnummer accepterer du at modtage SMS-beskeder fra Indeed.com. Takster for SMS og data kan gælde."
+
+#: web/WEB-INF/themes/drawsignup/global_nav.jsp:1
+#: web/WEB-INF/themes/default/global_nav.jsp:1
+#, java-format
+msgctxt "common-strings"
+msgid "By using Indeed, you agree to our new <a {0}>Terms</a>."
+msgstr ""
+
+# * Status: human_api_translated
+#. Alert text for new term of service
+#: web/static/app/js/components/LegalNotice.js:1
+#, fuzzy, python-brace-format
+msgid "By using Indeed, you agree to our new [Terms|{0}]."
+msgstr "Ved at bruge Indeed, accepterer du vores nye [Terms|{0}]."
+
+# * Status: human_api_translated
+#. message when the call has been canceld
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "Call canceled"
+msgstr "Opkald annulleret"
+
+# * Status: human_api_translated
+#. text on the button that makes the phone call
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Call me again"
+msgstr "Ring til mig igen"
+
+# * Status: human_api_translated
+#. prompt users to make a phone call
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Call me now"
+msgstr "Ring til mig nu"
+
+# * Status: human_api_translated
+#. text to tell users the number is being called. The parameter is the phone number
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy, python-brace-format
+msgid "Calling {0}"
+msgstr "Ringer til {0}"
+
+# * Status: human_api_translated
+#. Cancel login
+#. label on the cancel button
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Cancel"
+msgstr "Annullér"
+
+# * Status: human_api_translated
+#. Prompt users to change the country
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+#, fuzzy
+msgid "Change country"
+msgstr "Skift land"
+
+# * Status: human_api_translated
+#. Prompt users to confirm the country code
+#: web/static/app/js/components/phoneVerificationComponent/PrefixPicker.js:1
+#, fuzzy
+msgid "Confirm"
+msgstr "Bekræft"
+
+# * Status: human_api_translated
+#. Text shown to a user after a successful facebook login just before we reload the page.
+#: web/static/app/js/components/Facebook.js:1
+#, fuzzy
+msgid "Connected. Please wait..."
+msgstr "Forbindelsen er oprettet. Vent venligst ..."
+
+# * Status: human_api_translated
+#. text on the continue button
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, fuzzy
+msgid "Continue"
+msgstr "Fortsæt"
+
+# * Status: human_api_translated
+#. Login Button Text
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgctxt "button"
+msgid "Create Account"
+msgstr "Opret konto"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgctxt "header"
+msgid "Create an Account (it's free)"
+msgstr "Opret en konto (det er gratis)"
+
+# * Status: human_api_translated
+#. text to tell users a confirmation email has been sent
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Do you prefer to verify your account by email? Click on the link in the email we just sent you!"
+msgstr "Foretrækker du at bekræfte din konto via e-mail? Klik på linket i den e-mail, vi lige har sendt til dig!"
+
+#. Label above email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Email Address"
+msgstr "E-mailadresse"
+
+# * Status: human_api_translated
+#. Prompt text of user's email address */ }
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy, python-brace-format
+msgid "Email address: [{0}|{1}]"
+msgstr "E-mailadresse: [{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error when email & confirm email addresses do not match
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Email addresses don't match"
+msgstr "E-mailadresserne er ikke ens"
+
+# * Status: human_api_translated
+#. Error message when the given phone number is invalid
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "Enter a valid phone number without a phone extension, such as your cell phone number."
+msgstr "Angiv et gyldigt telefonnummer uden lokalnummer såsom dit mobilnummer."
+
+# * Status: human_api_translated
+#. Prompt for user to enter email address
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "Enter the email associated with your Indeed account and we'll send you instructions to reset your password."
+msgstr "Anfør den e-mail, der er tilknyttet din Indeed-konto, og vi vil sende dig anvisninger til nulstilling af din adgangskode."
+
+# * Status: human_api_translated
+#. label to prompt users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Enter this verification code on your phone:"
+msgstr "Indtast denne bekræftelseskode på din telefon:"
+
+# * Status: human_api_translated
+#. Placeholder text for email address field
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "Enter your email"
+msgstr "Indtast din email"
+
+#: src/java/com/indeed/passport/webapp/controllers/FacebookLoginController.java:1
+msgid "Facebook login failed"
+msgstr ""
+
+# * Status: human_api_translated
+#. Navigation link from login page to forgot your password page
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Forgot Your Password?"
+msgstr "Har du glemt din adgangskode?"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Have an account?  Sign in"
+msgstr "Har du en konto? Log ind"
+
+# * Status: human_api_translated
+#. Navigation link from login page to help center
+#. Navigation link from forgot password page to help center
+#. Navigation link from login page to help center
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Help Center"
+msgstr "Hjælpecenter"
+
+# * Status: human_api_translated
+#. Prompt for email sent success. {0} is recipient's email address.*/ }
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy, python-brace-format
+msgid "If you have an Indeed account, you'll receive instructions for resetting your password at [{0}|{1}]"
+msgstr "Hvis du har en Indeed-konto, får du tilsendt anvisninger til nulstilling af din adgangskode på [{0}|{1}]"
+
+# * Status: human_api_translated
+#. Error text when you enter an incorrect password or email address
+#: web/static/app/js/containers/LoginPage.js:1
+#, fuzzy
+msgid "Incorrect password or email address"
+msgstr "Forkert adgangskode eller email adresse"
+
+# * Status: human_api_translated
+#. Error when somebody attempts to register an account with an invalid email address
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Invalid email address"
+msgstr "Ugyldig e-mailadresse"
+
+#. Label for "remember me on this computer" checkbox
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Keep me signed-in on this computer."
+msgstr "Forbliv logget ind på denne computer."
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy, python-brace-format
+msgid "New password ({0} character minimum)"
+msgstr "Ny adgangskode (min. {0} tegn)"
+
+# * Status: human_api_translated
+#. text on the button directing users to the next page
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Next"
+msgstr "Næste"
+
+# * Status: human_api_translated
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/LoginPage.js:1
+#, fuzzy
+msgid "Not a member? Create an account free"
+msgstr "Er du ikke medlem? Opret en gratis konto"
+
+#. Label above password field
+#: web/static/app/js/containers/LoginPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Password"
+msgstr "Adgangskode"
+
+# * Status: human_api_translated
+#. Error text when password is too short
+#. Error message when password is less than {0} characters long
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy, python-brace-format
+msgid "Password must be at least {0} characters long"
+msgstr "Adgangskoden skal være mindst {0} karakterer lang"
+
+# * Status: human_api_translated
+#. Error text when passwords do not match
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "Passwords do not match"
+msgstr "Adgangskoder er ikke ens"
+
+#. label text asking users to enter the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+# * Status: human_api_translated
+#. Error message when password is empty.  {0} is minimum characters required.
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy, python-brace-format
+msgid "Please enter a password at least {0} characters long"
+msgstr "Angiv en adgangskode på mindst {0} tegn"
+
+# * Status: human_api_translated
+#. Error text when user enter an incorrect email address
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "Please enter a valid email address"
+msgstr "Angiv en gyldig e-mailadresse"
+
+# * Status: human_api_translated
+#. Error text for user not entering an email address
+#. Error when somebody forgets to input their email address while registering
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Please enter your email address"
+msgstr "Indtast venligst din email adresse"
+
+# * Status: human_api_translated
+#. Message shown when there is a page-level validation error
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Please fix any errors on the page"
+msgstr "Ret eventuelle fejl på siden"
+
+# * Status: human_api_translated
+#. Error when somebody does not retype their password
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Please re-type your email address"
+msgstr "Angiv din e-mailadresse igen"
+
+# * Status: human_api_translated
+#. error message to ask users to select a contact method
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Please select a contact method."
+msgstr "Vælg venligst en kontakt metode."
+
+# * Status: human_api_translated
+#. label above the contact selection box
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Preferred contact method"
+msgstr "Foretrukken kontaktmetode"
+
+# * Status: human_api_translated
+#. Label above email address field
+#: web/static/app/js/containers/RegisterPage.js:1
+#, fuzzy
+msgid "Re-type Email"
+msgstr "Angiv e-mailadresse igen"
+
+# * Status: human_api_translated
+#. Label above confirm password field
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy
+msgid "Re-type password"
+msgstr "Gen-indtast adgangskode"
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy
+msgid "Reset Password"
+msgstr "Nulstil adgangskode"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy
+msgid "Reset Your Password"
+msgstr "Nulstil din adgangskode"
+
+# * Status: human_api_translated
+#. Login page header
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgctxt "header"
+msgid "Reset Your Password"
+msgstr "Nulstil din adgangskode"
+
+# * Status: human_api_translated
+#. label to prompt users to send SMS
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "Send a text message (SMS)"
+msgstr "Send en SMS-besked"
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Send email again"
+msgstr ""
+
+#. Navigation link from forgot password page to sign in
+#. Login Button Text
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "button or link to sign in"
+msgid "Sign In"
+msgstr "Log på"
+
+#. Login page header
+#: web/static/app/js/containers/LoginPage.js:1
+msgctxt "header"
+msgid "Sign In"
+msgstr "Log på"
+
+#. Navigation link from login page to create account page
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+msgid "Sign in"
+msgstr ""
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+#, fuzzy
+msgid "Sign in to view and edit your Indeed Resume, or apply to jobs easily with it."
+msgstr "Log ind for at se og redigere dit Indeed CV, eller søg job uden besvær med det."
+
+# * Status: human_api_translated
+#. Text for "Log in with Facebook" button
+#: web/static/app/js/components/Facebook.js:1
+#, fuzzy
+msgid "Sign in with Facebook"
+msgstr "Log ind med Facebook"
+
+# * Status: human_api_translated
+#. label on the submit button
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, fuzzy
+msgid "Submit"
+msgstr "Send"
+
+# * Status: human_api_translated
+#. Forgot Password Button Text
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgctxt "button"
+msgid "Submit"
+msgstr "Send"
+
+# * Status: human_api_translated
+#. text to notify the user the number has been verified
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, fuzzy
+msgid "Thanks, your phone number is verified."
+msgstr "Tak, dit telefonnummer er bekræftet."
+
+# * Status: human_api_translated
+#. Error message when the confirmation code is wrong
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "The confirmation code does not match"
+msgstr "Bekræftelseskoden er forkert"
+
+# * Status: human_api_translated
+#. Error text when the link is expired
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "The link to reset your password is expired."
+msgstr "Linket til at nulstille din adgangskode er udløbet."
+
+# * Status: human_api_translated
+#. Error text when the link is invalid
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#, fuzzy
+msgid "The link to reset your password is invalid."
+msgstr "Linket til at nulstille din adgangskode er ugyldigt."
+
+# * Status: human_api_translated
+#. Text to notify users an error happened and try again
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy
+msgid "There was an error verifying your phone, please try again."
+msgstr "Der opstod en fejl under kontrol af dit telefonnummer. Prøv igen"
+
+# * Status: human_api_translated
+#. text to tell users why we need to verify the phone number
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#, fuzzy
+msgid "To provide the best experience for job seekers and employers, we need to verify that the phone number associated with your account belongs to you. The verification process is automated and takes less than a minute."
+msgstr "For at kunne give den bedste oplevelse for jobsøgende og arbejdsgivere er vi nødt til at kontrollere, at telefonnummeret, der er tilknyttet din konto, tilhører dig. Bekræftelsesprocessen er automatiseret og tager mindre end et minut."
+
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Using a non-company email may delay account verification. We encourage the use of a company email to make your jobs go live faster."
+msgstr ""
+
+# * Status: human_api_translated
+#. label text asking users to enter the verification code
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, fuzzy
+msgid "Verification code"
+msgstr "Bekræftelseskode"
+
+# * Status: human_api_translated
+#. text to tell users the code has been sent. The parameter is the phone number.
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#, fuzzy, python-brace-format
+msgid "Verification code sent to {0}. Enter the code you received below."
+msgstr "Bekræftelseskode sendt til {0}. Angiv koden, du modtog, nedenfor."
+
+# * Status: human_api_translated
+#. header of the phone verification page
+#: web/static/app/js/components/phoneVerificationComponent/SMSConfirmation.js:1
+#: web/static/app/js/components/phoneVerificationComponent/Editor.js:1
+#: web/static/app/js/components/phoneVerificationComponent/VoiceConfirmation.js:1
+#, fuzzy
+msgid "Verify your phone number"
+msgstr "Bekræft dit telefonnummer"
+
+# * Status: human_api_translated
+#. text to tell job seeker a confirmation email has been sent to them. {0} is the stake of the email address.
+#: web/static/app/js/components/phoneVerificationComponent/ContinuePage.js:1
+#, fuzzy, python-brace-format
+msgid "We also just sent a confirmation email to {0}. Click on the confirmation link in the email to verify your email address so that employers can reach you via email."
+msgstr "Vi har også lige sendt en bekræftelsesmail til {0}. Klik på bekræftelseslinket i e-mailen for at bekræfte din e-mailadresse, så arbejdsgiverne kan kontakte dig via e-mail."
+
+# * Status: human_api_translated
+#. Legal disclaimer for facebook login button (line 2)
+#: web/static/app/js/components/Facebook.js:1
+#, fuzzy
+msgid "We won't post anything without your permission."
+msgstr "Vi opslår ikke noget uden din tilladelse."
+
+#: web/static/app/js/containers/ForceResetPasswordPage.js:1
+#, python-brace-format
+msgid "Your account has been temporarily locked because of security concerns. To unlock this account, you must reset your password. We have emailed you instructions for resetting your password at {0}"
+msgstr ""
+
+# * Status: human_api_translated
+#: web/static/app/js/containers/LoginPage.js:1
+#, fuzzy
+msgid "Your email is associated with an existing account."
+msgstr "Din e-mailadresse er tilknyttet en eksisterende konto."
+
+# * Status: human_api_translated
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy
+msgid "Your password has been reset."
+msgstr "Din adgangskode er blevet nulstillet."
+
+# * Status: human_api_translated
+#. Prompt text for successfully resetting password
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#, fuzzy, python-brace-format
+msgid "Your password has been reset. [Sign In|{0}]"
+msgstr "Din adgangskode er blevet nulstillet. [Log ind|{0}]"
+
+#. Error text when password is too common
+#. Error when password is in the 10k most commonly used passwords
+#: web/static/app/js/containers/ResetPasswordPage.js:1
+#: web/static/app/js/containers/ForgotPasswordPage.js:1
+#: web/static/app/js/containers/RegisterPage.js:1
+msgid "Your password is too simple. Make it more secure by using capitalization, numbers and special characters, or by making it longer."
+msgstr "Din adgangskode er for enkel. Gør den mere sikker ved at bruge store bogstaver, tal og særlige tegn eller ved at gøre den længere."
+
+#. divider between sign in and facebook sign in
+#: web/static/app/js/components/Facebook.js:1
+msgctxt "separates different sign in methods"
+msgid "or"
+msgstr "eller"
+
+#. Error text when you failed to pass recaptcha
+#: web/static/app/js/containers/LoginPage.js:1
+msgid "reCAPTCHA validation unsuccessful. Please try again."
+msgstr ""
+
+# * Status: human_api_translated
+#. Error message when the phone number has been used. {0} is the parameter of phone number.
+#: web/static/app/js/reducers/PhoneVerificationReducer.js:1
+#, fuzzy, python-brace-format
+msgid "{0} is associated with another account. Please enter a different number where you can be reached directly."
+msgstr "{0} er tilknyttet en anden konto. Indtast venligst et andet nummer, hvor du kan kontaktes direkte."
+
+#~ msgid "Incorrect login or password"
+#~ msgstr "Forkerte logonoplysninger eller adgangskode"

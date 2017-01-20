@@ -1,0 +1,32 @@
+ar_AE, ar_BH, ar_EG, ar_KW, ar_MA, ar_OM, ar_QA, ar_SA
+cs_CZ
+da_DK
+de_AT, de_BE, de_CH, de_DE de_LU
+en, en_AE, en_AU, en_BE, en_BH, en_CA, en_CH, en_DK, en_EG, en_FI, en_GB, en_HK, en_ID, en_IE, en_IL, en_IN, en_KW, en_LU, en_MA, en_MY, en_EG, en_NO, en_NZ, en_OM, en_PH, en_PK, en_QA, en_SA, en_SG, en_TH, en_US, en_VN, en_ZA
+el_GR
+es_AR, es_CL, es_CO, es_CR, es_EC, es_ES, es_MX, es_PA, es_PE, es_US, es_UY, es_VE
+fi_FI
+fr_BE, fr_CA, fr_CH, fr_FR, fr_LU, fr_MA
+he, he_IL
+hu_HU
+id_ID
+in_ID
+it_CH, it_IT
+iw, iw_IL
+ja_JP
+ko_KR
+ms, ms_MY
+nl_BE, nl_NL
+no_NO
+pl_PL
+pt_BR
+ro_RO
+ru_RU, ru_UA
+sv_FI, sv_SE
+th_TH
+tr_TR
+uk_UA
+vi_VN
+zh_CN, zh_SG
+zz
+

@@ -15,7 +15,7 @@ msgstr ""
 
 #. Error when somebody already registered this account
 #: web/static/app/js/containers/RegisterPage.js:1
-msgid "Account already exists"
+msgid "Account already exists - Erwin"
 msgstr ""
 
 #. Legal disclaimer for facebook login button (line 1)
